@@ -1,0 +1,11 @@
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.exe.config
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.exe
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.pdb
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.Form1.resources
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.Properties.Resources.resources
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.exe
+C:\Users\Beyza\Desktop\CafeOrder\CafeOrder\CafeOrder\obj\Debug\CafeOrder.pdb
